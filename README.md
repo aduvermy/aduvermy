@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Arnaud 👋
 
-<!--
-**aduvermy/aduvermy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Research Software Engineer, currently building tools to make scientific software more robust and reproducible.
 
-Here are some ideas to get you started:
+#### Current focus: TanaT (Temporal Analysis of Trajectories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main project right now is TanaT, a specialized tool designed for temporal sequence analysis, with a primary focus on patient care pathways.
+
+Explore the [TanaT-Lab](https://github.com/TanaT-Lab).
+  
+--- 
+
+Feel free to connect with me for anything tech-related or just to say hello! Let's build some cool, solid stuff together. 🌟
